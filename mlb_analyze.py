@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 from eval_functions import *
 
 
-## Gambling Addicts are Smarter Than Scientists and Professors (in aggregate)
 
 
 ## data source:
