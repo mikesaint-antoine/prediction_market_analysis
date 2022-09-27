@@ -67,45 +67,12 @@ for i in range(0,len(data), 2):
             y_score.append(probH)
 
 
-print(len(y_true))
-print(len(y_score))
+assert len(y_true) == len(y_score)
+
+plot_roc_curve(y_true,y_score, savefile="figs/nfl_roc.pdf")
 
 
-y_ns = [1 for _ in range(len(y_true))]
-
-
-# ## ROC curve
-# fpr, tpr, roc_thresholds = metrics.roc_curve(y_true, y_score, pos_label=1)
-
-auroc = metrics.roc_auc_score(y_true, y_score)
-# print(auroc)
-# plt.plot(fpr,tpr)
-
-
-# fpr, tpr, roc_thresholds = metrics.roc_curve(y_true, y_ns, pos_label=1)
-
-ns_auroc = metrics.roc_auc_score(y_true, y_ns)
-# print(auroc)
-
-
-# plt.plot(fpr,tpr)
-# plt.show()
-
-
-
-
-precision, recall, thresholds = metrics.precision_recall_curve(y_true, y_score)
-# plt.plot(recall,precision)
-
-
-aupr = metrics.auc(recall,precision)
-
-ns_aupr = sum(y_true) / len(y_true)
-
-# plt.axhline(y=ns_aupr)
-# print(aupr)
-# print(noskill_aupr)
-# plt.show()
+plot_pr_curve(y_true,y_score, savefile="figs/nfl_pr.pdf")
 
 print_stats(y_true,y_score)
 
