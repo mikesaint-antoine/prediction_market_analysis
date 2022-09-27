@@ -1,0 +1,458 @@
+Clinton,IA,72.4%,Won
+Sanders,IA,27.3%,Lost
+OMalley,IA,0.3%,Lost
+Trump,IA,62.8%,Lost
+Rubio,IA,6.7%,Lost
+Carson,IA,0.2%,Lost
+Fiorina,IA,0.2%,Lost
+Cruz,IA,30.0%,Won
+Christie,IA,0.2%,Lost
+Clinton,NH,2.6%,Lost
+Sanders,NH,96.9%,Won
+OMalley,NH,0.5%,Lost
+Bush,NH,3.2%,Lost
+Trump,NH,82.2%,Won
+Rubio,NH,4.7%,Lost
+Carson,NH,0.1%,Lost
+Kasich,NH,6.7%,Lost
+Fiorina,NH,0.1%,Lost
+Cruz,NH,2.2%,Lost
+Christie,NH,0.9%,Lost
+Bush,SC,0.9%,Lost
+Trump,SC,88.5%,Won
+Rubio,SC,7.4%,Lost
+Carson,SC,0.9%,Lost
+Kasich,SC,0.3%,Lost
+Cruz,SC,2.1%,Lost
+Clinton,SC,98.7%,Won
+Sanders,SC,1.3%,Lost
+Trump,NV,90.1%,Won
+Rubio,NV,8.8%,Lost
+Carson,NV,0.3%,Lost
+Cruz,NV,0.9%,Lost
+Clinton,AL,99.4%,Won
+Sanders,AL,1.0%,Lost
+Trump,AL,98.8%,Won
+Rubio,AL,1.3%,Lost
+Carson,AL,0.3%,Lost
+Kasich,AL,0.3%,Lost
+Cruz,AL,0.3%,Lost
+Clinton,AR,49.3%,Won
+Sanders,AR,50.7%,Lost
+Trump,AR,86.0%,Won
+Rubio,AR,2.3%,Lost
+Carson,AR,2.6%,Lost
+Kasich,AR,0.9%,Lost
+Cruz,AR,10.3%,Lost
+Clinton,GA,99.4%,Won
+Sanders,GA,0.5%,Lost
+Trump,GA,95.3%,Won
+Rubio,GA,2.1%,Lost
+Carson,GA,1.1%,Lost
+Kasich,GA,0.9%,Lost
+Cruz,GA,2.1%,Lost
+Clinton,MA,91.7%,Won
+Sanders,MA,8.5%,Lost
+Trump,MA,96.6%,Won
+Rubio,MA,1.6%,Lost
+Carson,MA,0.9%,Lost
+Kasich,MA,0.9%,Lost
+Cruz,MA,0.9%,Lost
+Clinton,MN,75.1%,Lost
+Sanders,MN,24.9%,Won
+Trump,MN,62.5%,Lost
+Rubio,MN,29.4%,Won
+Carson,MN,1.2%,Lost
+Kasich,MN,1.2%,Lost
+Cruz,MN,5.7%,Lost
+Clinton,OK,58.6%,Lost
+Sanders,OK,41.4%,Won
+Trump,OK,87.8%,Lost
+Rubio,OK,7.0%,Lost
+Carson,OK,0.2%,Lost
+Kasich,OK,0.2%,Lost
+Cruz,OK,4.7%,Won
+Clinton,TN,98.7%,Won
+Sanders,TN,1.2%,Lost
+Trump,TN,93.8%,Won
+Rubio,TN,1.2%,Lost
+Carson,TN,0.2%,Lost
+Kasich,TN,2.6%,Lost
+Cruz,TN,2.1%,Lost
+Clinton,TX,99.2%,Won
+Sanders,TX,0.8%,Lost
+Trump,TX,12.3%,Lost
+Rubio,TX,1.0%,Lost
+Carson,TX,0.4%,Lost
+Kasich,TX,0.4%,Lost
+Cruz,TX,87.9%,Won
+Clinton,VA,99.2%,Won
+Sanders,VA,0.8%,Lost
+Trump,VA,93.9%,Won
+Rubio,VA,4.8%,Lost
+Carson,VA,0.6%,Lost
+Kasich,VA,0.7%,Lost
+Cruz,VA,0.6%,Lost
+Clinton,KS,21.5%,Lost
+Sanders,KS,78.5%,Won
+Trump,KS,37.7%,Lost
+Rubio,KS,5.2%,Lost
+Cruz,KS,57.0%,Won
+Trump,KY,70.1%,Won
+Rubio,KY,6.9%,Lost
+Cruz,KY,22.9%,Lost
+Clinton,LA,99.9%,Won
+Sanders,LA,0.1%,Lost
+Trump,LA,88.0%,Won
+Cruz,LA,11.9%,Lost
+(Clinton,ME,16.1%,Lost
+Sanders,ME,83.8%,Won
+Trump,ME,77.1%,Lost
+Rubio,ME,2.7%,Lost
+Kasich,ME,13.7%,Lost
+Cruz,ME,6.4%,Won
+Trump,PR,11.4%,Lost
+Rubio,PR,73.9%,Won
+Cruz,PR,14.7%,Lost
+Trump,HI,30.2%,Won
+Rubio,HI,45.6%,Lost
+Kasich,HI,4.2%,Lost
+Cruz,HI,20.0%,Lost
+Trump,ID,33.2%,Lost
+Rubio,ID,2.7%,Lost
+Cruz,ID,64.1%,Won
+Clinton,MI,91.5%,Lost
+Sanders,MI,8.4%,Won
+Trump,MI,87.4%,Won
+Kasich,MI,8.2%,Lost
+Cruz,MI,4.3%,Lost
+Clinton,MS,99.9%,Won
+Sanders,MS,0.1%,Lost
+Trump,MS,88.5%,Won
+Cruz,MS,11.4%,Lost
+Trump,DC,29.2%,Lost
+Rubio,DC,35.4%,Won
+Kasich,DC,24.9%,Lost
+Cruz,DC,10.5%,Lost
+Clinton,FL,91.5%,Won
+Sanders,FL,8.4%,Lost
+Trump,FL,88.8%,Won
+Rubio,FL,9.2%,Lost
+Cruz,FL,1.9%,Lost
+Clinton,IL,51.7%,Won
+Sanders,IL,48.2%,Lost
+Trump,IL,66.6%,Won
+Kasich,IL,2.4%,Lost
+Cruz,IL,30.9%,Lost
+Clinton,MO,31.8%,Won
+Sanders,MO,68.1%,Lost
+Trump,MO,53.9%,Won
+Cruz,MO,46.0%,Lost
+Clinton,NC,90.1%,Won
+Sanders,NC,9.8%,Lost
+Trump,NC,85.5%,Won
+Cruz,NC,14.4%,Lost
+Clinton,OH,61.8%,Won
+Sanders,OH,38.1%,Lost
+Trump,OH,27.2%,Lost
+Kasich,OH,70.8%,Won
+Cruz,OH,1.9%,Lost
+Clinton,AZ,83.9%,Won
+Sanders,AZ,16.1%,Lost
+Trump,AZ,87.4%,Won
+Kasich,AZ,0.7%,Lost
+Cruz,AZ,11.9%,Lost
+Clinton,UT,15.9%,Lost
+Sanders,UT,84.1%,Won
+Trump,UT,3.2%,Lost
+Kasich,UT,2.7%,Lost
+Cruz,UT,94.1%,Won
+Clinton,WI,13.1%,Lost
+Sanders,WI,86.9%,Won
+Trump,WI,19.4%,Lost
+Kasich,WI,1.0%,Lost
+Cruz,WI,79.6%,Won
+Clinton,NY,89.6%,Won
+Sanders,NY,10.4%,Lost
+Trump,NY,99.9%,Won
+Kasich,NY,0.1%,Lost
+Cruz,NY,0.1%,Lost
+Clinton,CT,81.4%,Won
+Sanders,CT,18.6%,Lost
+Trump,CT,98.6%,Won
+Kasich,CT,1.1%,Lost
+Cruz,CT,0.3%,Lost
+Clinton,DE,96.4%,Won
+Sanders,DE,3.6%,Lost
+Trump,DE,97.1%,Won
+Kasich,DE,1.5%,Lost
+Cruz,DE,1.4%,Lost
+Clinton,MD,97.5%,Won
+Sanders,MD,2.4%,Lost
+Trump,MD,94.3%,Won
+Kasich,MD,3.5%,Lost
+Cruz,MD,2.2%,Lost
+Clinton,PA,94.6%,Won
+Sanders,PA,5.4%,Lost
+Trump,PA,93.9%,Won
+Kasich,PA,3.1%,Lost
+Cruz,PA,3.0%,Lost
+Clinton,RI,57.7%,Lost
+Sanders,RI,42.2%,Won
+Trump,RI,97.8%,Won
+Kasich,RI,1.7%,Lost
+Cruz,RI,0.5%,Lost
+Clinton,IN,77.9%,Lost
+Sanders,IN,22.0%,Won
+Trump,IN,94.4%,Won
+Kasich,IN,0.1%,Lost
+Cruz,IN,5.5%,Lost
+Trump,NE,96.4%,Won
+Kasich,NE,1.4%,Lost
+Cruz,NE,2.1%,Lost
+Clinton,WV,12.4%,Lost
+Sanders,WV,87.6%,Won
+Trump,WV,99.9%,Won
+Kasich,WV,0.1%,Lost
+Cruz,WV,0.1%,Lost
+Clinton,OR,19.8%,Lost
+Sanders,OR,80.2%,Won
+Trump,OR,99.6%,Won
+Kasich,OR,0.1%,Lost
+Cruz,OR,0.2%,Lost
+Trump,WA,99.9%,Won
+Kasich,WA,0.1%,Lost
+Cruz,WA,0.1%,Lost
+Clinton,CA,74.8%,Won
+Sanders,CA,25.1%,Lost
+Trump,CA,99.9%,Won
+Kasich,CA,0.1%,Lost
+Cruz,CA,0.1%,Lost
+Clinton,USA General Election,79.5%,Lost
+Trump,USA General Election,20.2%,Won
+Johnson,USA General Election,0.1%,Lost
+Stein,USA General Election,0.1%,Lost
+McMullin,USA General Election,0.1%,Lost
+Clinton,AK General Election,14.5%,Lost
+Trump,AK General Election,85.5%,Won
+Clinton,AL General Election,2.5%,Lost
+Trump,AL General Election,97.5%,Won
+Clinton,AR General Election,3.5%,Lost
+Trump,AR General Election,96.5%,Won
+Clinton,AZ General Election,25.0%,Lost
+Trump,AZ General Election,75.0%,Won
+Clinton,CA General Election,96.0%,Won
+Trump,CA General Election,4.0%,Lost
+Clinton,CO General Election,79.0%,Won
+Trump,CO General Election,21.5%,Lost
+Clinton,CT General Election,94.0%,Won
+Trump,CT General Election,6.0%,Lost
+Clinton,DE General Election,95.5%,Won
+Trump,DE General Election,4.5%,Lost
+Clinton,FL General Election,66.8%,Lost
+Trump,FL General Election,33.2%,Won
+Clinton,GA General Election,13.9%,Lost
+Trump,GA General Election,86.1%,Won
+Clinton,HI General Election,96.0%,Won
+Trump,HI General Election,4.0%,Lost
+Clinton,IA General Election,25.0%,Lost
+Trump,IA General Election,75.0%,Won
+Clinton,ID General Election,3.5%,Lost
+Trump,ID General Election,96.5%,Won
+Clinton,IL General Election,95.5%,Won
+Trump,IL General Election,4.5%,Lost
+Clinton,IN General Election,4.5%,Lost
+Trump,IN General Election,95.5%,Won
+Clinton,KS General Election,4.0%,Lost
+Trump,KS General Election,96.0%,Won
+Clinton,KY General Election,3.5%,Lost
+Trump,KY General Election,96.5%,Won
+Clinton,LA General Election,2.5%,Lost
+Trump,LA General Election,97.5%,Won
+Clinton,MA General Election,96.5%,Won
+Trump,MA General Election,3.5%,Lost
+Clinton,MD General Election,97.5%,Won
+Trump,MD General Election,2.5%,Lost
+Clinton,ME General Election,83.9%,Won
+Trump,ME General Election,16.1%,Lost
+Clinton,MI General Election,75.2%,Lost
+Trump,MI General Election,24.8%,Won
+Clinton,MN General Election,89.0%,Won
+Trump,MN General Election,11.0%,Lost
+Clinton,MO General Election,5.4%,Lost
+Trump,MO General Election,94.6%,Won
+Clinton,MS General Election,2.5%,Lost
+Trump,MS General Election,97.0%,Won
+Clinton,MT General Election,6.0%,Lost
+Trump,MT General Election,94.0%,Won
+Clinton,NC General Election,54.4%,Lost
+Trump,NC General Election,45.6%,Won
+Clinton,ND General Election,3.5%,Lost
+Trump,ND General Election,96.5%,Won
+Clinton,NE General Election,2.5%,Lost
+Trump,NE General Election,97.5%,Won
+Clinton,NH General Election,69.7%,Won
+Trump,NH General Election,30.3%,Lost
+Clinton,NJ General Election,94.6%,Won
+Trump,NJ General Election,5.4%,Lost
+Clinton,NM General Election,87.7%,Won
+Trump, NM General Election,12.3%,Lost
+Clinton,NV General Election,81.2%,Won
+Trump,NV General Election,18.8%,Lost
+Clinton,NY General Election,95.5%,Won
+Trump,NY General Election,4.5%,Lost
+Clinton,OH General Election,34.0%,Lost
+Trump,OH General Election,66.0%,Won
+Clinton,OK General Election,2.5%,Lost
+Trump,OK General Election,97.5%,Won
+Clinton,OR General Election,93.5%,Won
+Trump,OR General Election,6.0%,Lost
+Clinton,PA General Election,79.4%,Lost
+Trump,PA General Election,20.6%,Won
+Clinton,RI General Election,92.3%,Won
+Trump,RI General Election,7.7%,Lost
+Clinton,SC General Election,7.5%,Lost
+Trump,SC General Election,92.5%,Won
+Clinton,SD General Election,6.5%,Lost
+Trump,SD General Election,93.5%,Won
+Clinton,TN General Election,1.5%,Lost
+Trump,TN General Election,98.5%,Won
+Clinton,TX General Election,8.5%,Lost
+Trump,TX General Election,91.5%,Won
+Clinton,UT General Election,6.5%,Lost
+Trump,UT General Election,87.0%,Won
+OTHER,UT General Election,6.5%,Lost
+Clinton,VA General Election,86.7%,Won
+Trump,VA General Election,13.3%,Lost
+Clinton,VT General Election,96.5%,Won
+Trump,VT General Election,3.5%,Lost
+Clinton,WA General Election,95.0%,Won
+Trump,WA General Election,5.0%,Lost
+Clinton,WI General Election,87.5%,Lost
+Trump,WI General Election,12.5%,Won
+Clinton,WV General Election,2.5%,Lost
+Trump,WV General Election,97.5%,Won
+Clinton,WY General Election,2.5%,Lost
+Trump,WY General Election,97.5%,Won
+DEM Sen,AK General Election - Senate,6.4%,Lost
+REP Sen,AK General Election - Senate,93.6%,Won
+DEM Sen,AZ General Election - Senate,5.5%,Lost
+REP Sen,AZ General Election - Senate,94.5%,Won
+DEM Sen,CO General Election - Senate,92.5%,Won
+REP Sen,CO General Election - Senate,7.5%,Lost
+DEM Sen,FL General Election - Senate,14.1%,Lost
+REP Sen,FL General Election - Senate,85.9%,Won
+DEM Sen,IA General Election - Senate,2.5%,Lost
+REP Sen,IA General Election - Senate,97.5%,Won
+DEM Sen,IL General Election - Senate,95.1%,Won
+REP Sen,IL General Election - Senate,4.9%,Lost
+DEM Sen,IN General Election - Senate,33.5%,Lost
+REP Sen,IN General Election - Senate,66.0%,Won
+DEM Sen,LA General Election - Senate,14.8%,Lost
+REP Sen,LA General Election - Senate,85.2%,Won
+DEM Sen,MD General Election - Senate,97.0%,Won
+REP Sen,MD General Election - Senate,2.5%,Lost
+DEM Sen,MO General Election - Senate,41.0%,Lost
+REP Sen,MO General Election - Senate,59.0%,Won
+DEM Sen,NC General Election - Senate,34.3%,Lost
+REP Sen,NC General Election - Senate,65.7%,Won
+DEM Sen,NH General Election - Senate,51.5%,Won
+REP Sen,NH General Election - Senate,48.0%,Lost
+DEM Sen,NV General Election - Senate,77.0%,Won
+REP Sen,NV General Election - Senate,18.5%,Lost
+DEM Sen,OH General Election - Senate,4.0%,Lost
+REP Sen,OH General Election - Senate,96.0%,Won
+DEM Sen,PA General Election - Senate,77.0%,Lost
+REP Sen,PA General Election - Senate,23.0%,Won
+DEM Sen,WI General Election - Senate,82.5%,Lost
+REP Sen,WI General Election - Senate,13.5%,Won
+Leave,Brexit,24.9%,Won
+Stay,Brexit,75.1%,Lost
+DEM Sen,ME Senate 2018,95.5%,Won
+REP Sen,ME Senate 2018,4.5%,Lost
+DEM Sen,MA Senate 2018,96.5%,Won
+REP Sen,MA Senate 2018,3.5%,Lost
+DEM Sen,NJ Senate 2018,83.0%,Won
+REP Sen,NJ Senate 2018,17.0%,Lost
+DEM Sen,PA Senate 2018,92.0%,Won
+REP Sen,PA Senate 2018,8.0%,Lost
+DEM Sen,OH Senate 2018,88.5%,Won
+REP Sen,OH Senate 2018,11.5%,Lost
+DEM Sen,WV Senate 2018,79.5%,Won
+REP Sen,WV Senate 2018,20.5%,Lost
+DEM Sen,VA Senate 2018,93.0%,Won
+REP Sen,VA Senate 2018,6.0%,Lost
+DEM Sen,FL Senate 2018,62.5%,Lost
+REP Sen,FL Senate 2018,37.5%,Won
+DEM Sen,TN Senate 2018,22.0%,Lost
+REP Sen,TN Senate 2018,78.0%,Won
+DEM Sen,IN Senate 2018,51.5%,Lost
+REP Sen,IN Senate 2018,48.5%,Won
+DEM Sen,MI Senate 2018,81.0%,Won
+REP Sen,MI Senate 2018,19.0%,Lost
+DEM Sen,WI Senate 2018,92.5%,Won
+REP Sen,WI Senate 2018,7.5%,Lost
+DEM Sen,MO Senate 2018,39.0%,Lost
+REP Sen,MO Senate 2018,61.0%,Won
+DEM Sen,TX Senate 2018,79.5%,Won
+REP Sen,TX Senate 2018,20.5%,Lost
+DEM Sen,MN Senate 2018,90.5%,Won
+REP Sen,MN Senate 2018,9.5%,Lost
+DEM Sen,NE Senate 2018,96.5%,Won
+REP Sen,NE Senate 2018,3.5%,Lost
+DEM Sen,NM Senate 2018,96.5%,Won
+REP Sen,NM Senate 2018,3.5%,Lost
+DEM Sen,MT Senate 2018,64.5%,Won
+REP Sen,MT Senate 2018,35.5%,Lost
+DEM Sen,NV Senate 2018,62.5%,Won
+REP Sen,NV Senate 2018,37.5%,Lost
+DEM Sen,VT Senate 2018,99.0%,Won
+REP Sen,VT Senate 2018,1.0%,Lost
+DEM Gov,ME Gov 2018,85.5%,Won
+REP Gov,ME Gov 2018,14.5%,Lost
+DEM Gov,NH Gov 2018,80.4%,Won
+REP Gov,NH Gov 2018,19.6%,Lost
+DEM Gov,RI Gov 2018,98.0%,Won
+REP Gov,RI Gov 2018,2.0%,Lost
+DEM Gov,CT Gov 2018,73.0%,Won
+REP Gov,CT Gov 2018,27.0%,Lost
+DEM Gov,PA Gov 2018,95.5%,Won
+REP Gov,PA Gov 2018,4.5%,Lost
+DEM Gov,MD Gov 2018,92.1%,Won
+REP Gov,MD Gov 2018,7.9%,Lost
+DEM Gov,OH Gov 2018,59.2%,Lost
+REP Gov,OH Gov 2018,40.8%,Won
+DEM Gov,GA Gov 2018,34.8%,Lost
+REP Gov,GA Gov 2018,65.2%,Won
+DEM Gov,FL Gov 2018,61.6%,Lost
+REP Gov,FL Gov 2018,38.4%,Won
+DEM Gov,SC Gov 2018,95.6%,Won
+REP Gov,SC Gov 2018,4.4%,Lost
+DEM Gov,TN Gov 2018,94.0%,Won
+REP Gov,TN Gov 2018,5.0%,Lost
+DEM Gov,MI Gov 2018,84.6%,Won
+REP Gov,MI Gov 2018,15.4%,Lost
+DEM Gov,IL Gov 2018,93.1%,Won
+REP Gov,IL Gov 2018,6.9%,Lost
+DEM Gov,WI Gov 2018,61.4%,Won
+REP Gov,WI Gov 2018,38.6%,Lost
+DEM Gov,IA Gov 2018,66.4%,Lost
+REP Gov,IA Gov 2018,33.6%,Won
+DEM Gov,MN Gov 2018,81.1%,Won
+REP Gov,MN Gov 2018,18.9%,Lost
+DEM Gov,OK Gov 2018,31.5%,Lost
+REP Gov,OK Gov 2018,68.5%,Won
+DEM Gov,NM Gov 2018,88.4%,Won
+REP Gov,NM Gov 2018,11.6%,Lost
+DEM Gov,AZ Gov 2018,94.0%,Won
+REP Gov,AZ Gov 2018,4.0%,Lost
+DEM Gov,NV Gov 2018,60.2%,Won
+REP Gov,NV Gov 2018,39.8%,Lost
+DEM Gov,OR Gov 2018,78.9%,Won
+REP Gov,OR Gov 2018,21.1%,Lost
+DEM Gov,KS Gov 2018,43.0%,Won
+REP Gov,KS Gov 2018,55.5%,Lost
+DEM Senate Control,Senate Control 2018,16.0%,Lost
+REP Senate Control,Senate Control 2018,83.9%,Won
+DEM House Control,House Control 2018,68.0%,Won
+REP House Control,House Control 2018,31.9%,Lost
