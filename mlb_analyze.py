@@ -110,13 +110,13 @@ y_close = np.array(y_close)
 
 
 
-plot_roc_curve(y_true,y_open, savefile="figs/mlb_roc.pdf")
+# plot_roc_curve(y_true,y_open, savefile="figs/mlb_roc.pdf")
 
 
-plot_pr_curve(y_true,y_open, savefile="figs/mlb_pr.pdf")
+# plot_pr_curve(y_true,y_open, savefile="figs/mlb_pr.pdf")
 
 
-print_stats(y_true,y_open)
+print_stats(y_true,y_open,round=1)
 
 
 

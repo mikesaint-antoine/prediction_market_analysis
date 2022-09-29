@@ -71,11 +71,11 @@ for i in range(0,len(data), 2):
 
 assert len(y_true) == len(y_score)
 
-plot_roc_curve(y_true,y_score, savefile="figs/ncaa_football_roc.pdf")
+# plot_roc_curve(y_true,y_score, savefile="figs/ncaa_football_roc.pdf")
 
 
-plot_pr_curve(y_true,y_score, savefile="figs/ncaa_football_pr.pdf")
+# plot_pr_curve(y_true,y_score, savefile="figs/ncaa_football_pr.pdf")
 
 
-print_stats(y_true,y_score)
+print_stats(y_true,y_score,round=1)
 
