@@ -11,8 +11,8 @@ from eval_functions import *
 
 
 # topic = "house"
-# topic = "governors"
-topic = "senate"
+# topic = "senate"
+topic = "governors"
 
 
 
@@ -48,9 +48,9 @@ with open(f"data/fivethirtyeight_{topic}.csv") as tsvfile:
 
 assert len(y_true) == len(y_score)
 
-plot_roc_curve(y_true,y_score, savefile=f"figs/fte_{topic}_roc.pdf")
+# plot_roc_curve(y_true,y_score, savefile=f"figs/fte_{topic}_roc.pdf")
 
 
-plot_pr_curve(y_true,y_score, savefile=f"figs/fte_{topic}_pr.pdf")
+# plot_pr_curve(y_true,y_score, savefile=f"figs/fte_{topic}_pr.pdf")
 
-print_stats(y_true,y_score)
+print_stats(y_true,y_score,round=1)

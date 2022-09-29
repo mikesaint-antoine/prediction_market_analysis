@@ -1,6 +1,6 @@
 from sklearn import metrics
 import matplotlib.pyplot as plt
-
+import numpy as np
 
 def odds_to_prob(odds_in):
     if odds_in<0:
@@ -12,7 +12,7 @@ def odds_to_prob(odds_in):
 
 
 
-def print_stats(y_true,y_score):
+def print_stats(y_true,y_score, round=0):
     
 
 
@@ -30,6 +30,13 @@ def print_stats(y_true,y_score):
     precision, recall, thresholds = metrics.precision_recall_curve(y_true, y_score)
 
     aupr = metrics.auc(recall,precision)
+
+    if round:
+        auroc = np.round(auroc,decimals=3)
+        ns_auroc = np.round(ns_auroc,decimals=3)
+        aupr = np.round(aupr,decimals=3)
+        ns_aupr = np.round(ns_aupr,decimals=3)
+
 
 
 

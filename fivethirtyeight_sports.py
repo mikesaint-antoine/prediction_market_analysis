@@ -8,9 +8,8 @@ from eval_functions import *
 ## data source:
 # https://github.com/fivethirtyeight/checking-our-work-data
 
-
-# topic = "nba"
 # topic = "mlb"
+# topic = "nba"
 topic = "nfl"
 
 
@@ -29,7 +28,7 @@ with open(f"data/fivethirtyeight_{topic}.csv") as tsvfile:
 
     next(spamreader)
     for row in spamreader:
-        print(row)
+        # print(row)
 
         # input()
 
@@ -48,9 +47,9 @@ with open(f"data/fivethirtyeight_{topic}.csv") as tsvfile:
 
 assert len(y_true) == len(y_score)
 
-plot_roc_curve(y_true,y_score, savefile=f"figs/fte_{topic}_roc.pdf")
+# plot_roc_curve(y_true,y_score, savefile=f"figs/fte_{topic}_roc.pdf")
 
 
-plot_pr_curve(y_true,y_score, savefile=f"figs/fte_{topic}_pr.pdf")
+# plot_pr_curve(y_true,y_score, savefile=f"figs/fte_{topic}_pr.pdf")
 
-print_stats(y_true,y_score)
+print_stats(y_true,y_score,round=1)
