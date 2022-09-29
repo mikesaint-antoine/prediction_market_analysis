@@ -120,5 +120,6 @@ print_stats(y_true,y_open,round=1)
 
 
 
-
+plt.hist(y_open,bins=20)
+plt.show()
 

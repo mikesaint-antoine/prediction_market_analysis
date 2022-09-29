@@ -12,6 +12,17 @@ def odds_to_prob(odds_in):
 
 
 
+def entropy(y_score):
+
+    print("entropy function test")
+
+    total = 0
+
+    return(total)
+
+
+
+
 def print_stats(y_true,y_score, round=0):
     
 

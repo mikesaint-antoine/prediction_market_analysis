@@ -59,3 +59,7 @@ assert len(y_true) == len(y_score)
 
 print_stats(y_true,y_score,round=1)
 
+
+plt.hist(y_score,bins=20)
+plt.show()
+entropy(y_score)
