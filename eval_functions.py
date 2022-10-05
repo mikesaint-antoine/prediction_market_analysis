@@ -14,6 +14,26 @@ def odds_to_prob(odds_in):
 
 
 
+def brier_score(y_true,y_score):
+
+
+    assert len(y_true) == len(y_score)
+
+
+    N = len(y_score)
+
+    total = 0
+
+    for i in range(N):
+        total += (y_score[i] - y_true[i])**2
+
+    total = total/N
+
+
+
+    return total
+
+
 
 
 

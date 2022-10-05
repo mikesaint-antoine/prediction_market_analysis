@@ -109,6 +109,13 @@ y_close = np.array(y_close)
 
 
 
+brier_score(y_true,y_open)
+
+
+sys.exit("brier score test")
+
+
+
 
 # plot_roc_curve(y_true,y_open, savefile="figs/mlb_roc.pdf")
 
