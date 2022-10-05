@@ -109,10 +109,6 @@ y_close = np.array(y_close)
 
 
 
-brier_score(y_true,y_open)
-
-
-sys.exit("brier score test")
 
 
 
@@ -127,6 +123,6 @@ print_stats(y_true,y_open,round=1)
 
 
 
-plt.hist(y_open,bins=20)
-plt.show()
+# plt.hist(y_open,bins=20)
+# plt.show()
 

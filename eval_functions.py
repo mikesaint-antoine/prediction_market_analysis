@@ -56,16 +56,23 @@ def print_stats(y_true,y_score, round=0):
 
     aupr = metrics.auc(recall,precision)
 
+    brier = brier_score(y_true,y_score)
+
     if round:
         auroc = np.round(auroc,decimals=3)
         ns_auroc = np.round(ns_auroc,decimals=3)
         aupr = np.round(aupr,decimals=3)
         ns_aupr = np.round(ns_aupr,decimals=3)
+        brier = np.round(brier,decimals=3)
 
 
 
 
     ##print stats
+    print()
+    print()
+    print("Brier score:")
+    print(brier)    
     print()
     print()
     print("AUROC:")
