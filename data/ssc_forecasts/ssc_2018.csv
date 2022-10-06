@@ -1,0 +1,100 @@
+question,prob,outcome
+1. Donald Trump remains president at end of year,0.95,1
+2. Democrats take control of the House in midterms,0.8,1
+3. Democrats take control of the Senate in midterms,0.5,0
+4. Mueller’s investigation gets cancelled (eg Trump fires him),0.5,0
+5. Mueller does not indict Trump,0.7,1
+6. PredictIt shows Bernie Sanders having highest chance to be Dem nominee at end of year,0.6,0
+7. PredictIt shows Donald Trump having highest chance to be GOP nominee at end of year,0.95,1
+9. Some sort of major immigration reform legislation gets passed,0.7,0
+10. No major health-care reform legislation gets passed,0.95,1
+11. No large-scale deportation of Dreamers,0.9,1
+12. US government shuts down again sometime in 2018,0.5,1
+13. Trump’s approval rating lower than 50% at end of year,0.9,1
+14. …lower than 40%,0.5,0
+15. GLAAD poll suggesting that LGBQ acceptance is down will mostly not be borne out by further research,0.8,NA
+16. Dow does not fall more than 10% from max at any point in 2018,0.5,0
+17. Bitcoin is higher than $5000 at end of year,0.95,0
+18. Bitcoin is higher than $10000 at end of year,0.8,0
+19. Bitcoin is lower than $20000 at end of year,0.7,1
+20. Ethereum is lower than Bitcoin at end of year,0.95,1
+21. Luna has a functioning product by end of year,0.9,1
+22. Falcon Heavy first launch not successful,0.7,0
+23. Falcon Heavy eventually launched successfully in 2018,0.8,1
+24. SpaceX does not attempt its lunar tourism mission by end of year,0.95,1
+25. Sci-Hub is still relatively easily accessible from within US at end of year (even typing in IP directly is relatively easy),0.95,1
+26. Nothing particularly bad (beyond the level of an funny/weird news story) happens because of ability to edit videos this year,0.9,1
+27. A member of the general public can ride-share a self-driving car without a human backup driver in at least one US city by the end of the year,0.8,0
+28. Reddit does not ban r/the_donald by the end of the year,0.9,1
+29. None of his enemies manage to find a good way to shut up/discredit Jordan Peterson,0.7,1
+30. SSC gets more hits in 2018 than in 2017,0.8,1
+31. SSC gets mentioned in the New York Times (by someone other than Ross Douthat),0.6,1
+32. At least one post this year gets at least 100000 hits,0.7,0
+33. A 2019 SSC Survey gets posted by the end of the year,0.9,1
+34. No co-bloggers make 3 or more SSC posts this year,0.8,1
+35. Patreon income less than double current amount at end of year,0.9,1
+36. A scientific paper based on an SSC post is accepted for publication in real journal by end of year,0.6,0
+37. I do an adversarial collaboration with somebody interesting by the end of the year,0.5,0
+38. I successfully do some general project to encourage and post more adversarial collaborations by other people,0.7,1
+39. New SSC meetups system/database thing gets launched successfully,0.6,1
+40. LesserWrong remains active and successful (average at least one halfway-decent post per day) at the end of the year,0.5,1
+41. LesserWrong is declared official and merged with LessWrong.com,0.8,1
+42. I make fewer than five posts on LessWrong (posts copied over from SSC don’t count),0.7,1
+43. CFAR buys a venue this year,0.5,1
+44. AI Impacts has at least three employees working half-time or more sometime this year,0.5,1
+45. Rationalists get at least one more group house on Ward Street,0.5,0
+46. No improvement in the status of reciprocity.io (either transfer to a new team or at least one new feature added),0.7,1
+47. I fail at my New Years’ resolution to waste less time on the Internet throughout most of 2018,0.8,1
+48. I fail at my other New Years’ resolution to try one biohacking project per month throughout 2018,0.8,0
+49. I don’t attend the APA National Meeting,0.8,1
+50. I don’t attend the New York Solstice,0.8,1
+51. I travel outside the US in 2018,0.9,1
+52. I get some sort of financial planning sorted out by end of year,0.95,0
+53. I get at least one article published on a major site like Vox or New Statesman or something,0.5,0
+54. I get a tax refund,0.5,0
+55. I weigh more than 195 lb at year end,0.6,1
+56. I complete the currently visible Duolingo course in Spanish,0.9,1
+57. I don’t get around to editing Unsong (complete at least half the editing by my own estimate) this year,0.95,1
+58. No new housemate for at least one month this year,0.9,1
+59. I won’t [meditate at least one-third of days this year],0.9,1
+60. I won’t [do my exercise routine at least one third of days this year],0.8,1
+61. I still live in the same house at the end of 2018,0.6,0
+62. I will not have bought a house by the end of 2018,0.9,0
+63. Katja’s paper gets published,0.9,1
+64. Some other paper of Katja’s gets published,0.5,0
+<p>65. My partner and I come to a decision about whether to have children,0.8,1
+66. My partner and I are engaged by the end of the year,0.7,0
+67. My partner and I do not break up by the end of the year,0.7,0
+68. [Secret prediction],0.6,0
+69. [Secret prediction],0.7,1
+70. [Secret prediction],0.6,0
+71. [Secret prediction],0.5,0
+72. [Secret prediction],0.5,0
+73. [Secret prediction],0.5,0
+74. [Secret prediction],0.9,1
+75. [Secret prediction],0.9,1
+76. [Secret prediction],0.6,1
+77. [Secret prediction],0.7,1
+78. [Secret prediction],0.6,1
+79. [Secret prediction],0.5,0
+80. [Secret prediction],0.6,1
+81. I lose my bet against Duncan about Dragon Army Barracks,0.8,1
+82. Dragon Army Barracks is still together at the end of the year,0.7,1
+83. I will visit Greece,0.5,0
+84. I will visit Germany,0.7,0
+85. [Secret prediction],0.7,1
+86. [Secret prediction],0.7,0
+87. [Secret prediction],0.6,1
+88. [Secret prediction],0.5,1
+89. [Secret prediction],0.5,0
+90. [Secret prediction],0.7,1
+91. [Secret prediction],0.9,1
+92. [Secret prediction],0.5,1
+93. Still working at my current job at the end of 2018,0.9,1
+94. Working 30 hours/week or less at the end of 2018,0.5,0
+95. Have switched to practicing entirely in the East Bay,0.6,0
+96. [Secret prediction],0.6,1
+97. Will not finish first section of a difficult calligraphy project,0.6,1
+98. Will not finish all sections of difficult calligraphy project,0.95,1
+99. I will not do work for AI Impacts by the end of the year,0.7,1
+100. I will not finish more than 25% of a new novel,0.7,1

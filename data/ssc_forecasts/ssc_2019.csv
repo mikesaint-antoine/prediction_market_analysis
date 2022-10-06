@@ -1,0 +1,119 @@
+question,prob,outcome
+1. Donald Trump remains President,0.9,1
+2. Donald Trump is impeached by the House,0.4,1
+3. Kamala Harris leads the Democratic field,0.2,0
+4. Bernie Sanders leads the Democratic field,0.2,0
+5. Joe Biden leads the Democratic field,0.2,1
+6. Beto O’Rourke leads the Democratic field,0.2,0
+7. Trump is still leading in prediction markets to be Republican nominee,0.7,1
+8. Polls show more people support the leading Democrat than the leading Republican,0.8,1
+9. Trump’s approval rating below 50,0.9,1
+10. Trump’s approval rating below 40,0.5,0
+11. Current government shutdown ends before Feb 1,0.4,0
+12. Current government shutdown ends before Mar 1,0.8,1
+13. Current government shutdown ends before Apr 1,0.95,1
+14. Trump gets at least half the wall funding he wants from current shutdown,0.2,0
+15. Ginsberg still alive,0.5,1
+16. Bitcoin above 1000,0.9,1
+17. Bitcoin above 3000,0.5,1
+18. Bitcoin above 5000,0.2,1
+19. Bitcoin above Ethereum,0.95,1
+20. Dow above current value of 25000,0.8,1
+21. SpaceX successfully launches and returns crewed spacecraft,0.9,0
+22. SpaceX Starship reaches orbit,0.1,0
+23. No city where a member of the general public can ride self-driving car without attendant,0.9,1
+24. I can buy an Impossible Burger at a grocery store within a 30 minute walk from my house,0.7,0
+25. Pregabalin successfully goes generic and costs less than $100/month on GoodRx.com,0.5,1
+26. No further CRISPR-edited babies born,0.8,1
+27. Britain out of EU,0.6,0
+28. Britain holds second Brexit referendum,0.2,0
+29. No other EU country announces plan to leave,0.8,1
+30. China does not manage to avert economic crisis (subjective),0.5,1
+31. Xi still in power,0.95,1
+32. MbS still in power,0.95,1
+33. May still in power,0.7,0
+34. Nothing more embarassing than Vigano memo happens to Pope Francis,0.8,1
+35. …finds birth order effect is significantly affected by age gap,0.4,1
+36. …finds fluoxetine has significantly less discontinuation issues than average,0.6,1
+37. …finds STEM jobs do not have significantly more perceived gender bias than non-STEM,0.6,1
+38. …finds gender-essentialism vs. food-essentialism correlation greater than 0.075,0.3,NA
+39. SSC gets fewer hits than last year,0.7,1
+40. I finish and post [New Atheism The Godlessness That Failed],0.9,1
+41. I finish and post [Structures Of Paranoia],0.5,0
+42. I finish and post [a sequence based on Secret Of Our Success],0.5,1
+43. [New Atheism] post gets at least 40000 hits,0.4,1
+44. [The Proverbial Murder Mystery] post gets at least 40000 hits,0.2,0
+45. New co-blogger with more than 3 posts,0.2,0
+46. Repeat adversarial collaboration contest with at least 5 entries,0.6,1
+47. [Culture War thread successfully removed from subreddit],0.9,1
+48. [Culture War new version getting at least 500 comments per week],0.7,1
+49. I start using Twitter again (5+ tweets in any month),0.6,0
+50. I start using Facebook again (following at least 5 people),0.3,1
+51. I get the blood tests I should be getting this year,0.9,1
+52. I try one biohacking project per month x at least 10 months,0.3,1
+53. I continue taking sceletium regularly,0.7,1
+54. I switch from [Zembrin to Tristill] for at least 3 months,0.2,0
+55. I find at least one new supplement I take or expect to take regularly x 3 months,0.2,0
+56. Minoxidil use produces obvious progress,0.5,0
+57. I restart [redacted],0.2,0
+58. I spend one month at least substantially more vegetarian than my current compromise,0.2,1
+59. I spend one month at least substantially less vegetarian than my current compromise,0.3,0
+60. I weigh more than 195 lbs at year end,0.8,1
+61. I meditate at least 30 minutes/day more than half of days this year,0.3,0
+62. I use marijuana at least once this year,0.2,0
+63. I finish at least 10% more of [redacted],0.2,0
+64. I completely finish [redacted],0.1,0
+65. I finish and post [redacted],0.05,0
+66. I write at least ten pages of something I intend to turn into a full-length book this year,0.2,0
+67. I practice calligraphy at least seven days in the last quarter of 2019,0.4,0
+68. I finish at least one page of the [redacted] calligraphy project this year,0.3,0
+69. I finish the entire [redacted] calligraphy project this year,0.1,0
+70. I finish some other at-least-one-page calligraphy project this year,0.8,0
+71. I attend the APA Meeting,0.8,1
+72. [redacted],0.5,0
+73. [redacted],0.4,NA
+74. I still work in SF with no plans to leave it,0.6,1
+75. I still only do telepsychiatry one day with no plans to increase it,0.6,1
+76. I still work the current number of hours per week,0.6,1
+77. I have not started (= formally see first patient) my own practice,0.8,1
+78. I lease another version of the same car I have now,0.9,1
+79. I still live in my current house with no specific plans to leave,0.8,1
+80. I set up a decent home library,0.6,1
+81. We got a second trash can,0.9,1
+82. The gate is fixed with no problems at all,0.5,1
+83. The ugly paint spot on my wall gets fixed,0.3,1
+84. There is some kind of nice garden,0.6,1
+85. &#8230;and I am at least half responsible,0.2,1
+86. I get my own washing machine,0.2,0
+87. There is another baby in my house,0.6,1
+88. No other non-baby resident (expected 6+ month) in my house who doesn&#8217;t live there now,0.7,NA
+89. No existing resident moves away (except the one I already know about),0.8,1
+90. No other long-term (expected 6+ month) resident of my subunit who doesn&#8217;t live there now,0.8,1
+91. [Decision Tree House] is widely considered a success,0.7,NA
+92. &#8230;with plans (vague okay) to create a second one,0.2,0
+93. I find a primary partner,0.3,0
+94. I go on at least one date with someone who doesn’t already have a primary partner,0.9,1
+95. I remake an account on OKCupid,0.8,1
+96. [redacted],0.1,0
+97. [redacted],0.2,0
+98. [redacted],0.2,0
+99. [redacted],0.2,0
+100. [redacted],0.2,1
+101. [redacted],0.3,0
+102. [redacted],0.1,0
+103. [redacted],0.3,1
+104. [I go on at least three dates with someone I have not yet met],0.5,0
+105. [redacted],0.1,0
+106. [redacted],0.5,1
+107. I am still playing D&#038;D,0.6,1
+108. I go on a trip to Guatemala,0.9,1
+109. I go on at least one other international trip,0.3,0
+110. I go to at least one Solstice outside the Bay,0.4,0
+111. I go to at least one city just for an SSC meetup,0.3,1
+112. [redacted] is in a relationship,0.4,1
+113. [redacted] still has their current partner,0.5,0
+114. [redacted] is at their current job,0.2,0
+115. [redacted] is still at their current job,0.8,1
+116. I hang out with [redacted] at least once,0.6,0
+117. I hang out with [redacted] at least once,0.6,1
+118. I am in [redacted] Discord server,0.8,1

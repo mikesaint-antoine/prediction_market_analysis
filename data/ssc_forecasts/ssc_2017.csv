@@ -1,0 +1,106 @@
+question,prob,outcome
+1. US will not get involved in any new major war with death toll of > 100 US soldiers,0.6,1
+2. North Korea’s government will survive the year without large civil war/revolt,0.95,1
+3. No terrorist attack in the USA will kill > 100 people,0.9,1
+4. …in any First World country,0.8,1
+5. Assad will remain President of Syria,0.8,1
+6. Israel will not get in a large-scale war (ie >100 Israeli deaths) with any Arab state,0.9,1
+7. No major intifada in Israel this year (ie > 250 Israeli deaths but not in Cast Lead style war),0.8,1
+8. No interesting progress with Gaza or peace negotiations in general this year,0.9,1
+9. No Cast Lead style bombing/invasion of Gaza this year,0.9,1
+10. Situation in Israel looks more worse than better,0.7,1
+11. Syria’s civil war will not end this year,0.6,0
+12. ISIS will control less territory than it does right now,0.9,1
+13. ISIS will not continue to exist as a state entity in Iraq/Syria,0.5,1
+14. No major civil war in Middle Eastern country not currently experiencing a major civil war,0.9,1
+15. Libya to remain a mess,0.8,1
+16. Ukraine will neither break into all-out war or get neatly resolved,0.8,1
+17. No major revolt (greater than or equal to Tiananmen Square) against Chinese Communist Party,0.95,1
+18. No major war in Asia (with >100 Chinese Japanese South Korean and American deaths combined) over tiny stupid islands,0.99,1
+19. No exchange of fire over tiny stupid islands,0.9,1
+20. No announcement of genetically engineered human baby or credible plan for such,0.9,1
+21. EMDrive is launched into space and testing is successfully begun,0.7,0
+22. A significant number of skeptics will not become convinced EMDrive works,0.8,1
+23. A significant number of believers will not become convinced EMDrive doesn’t work,0.6,1
+24. No major earthquake (>100 deaths) in US,0.99,1
+25. No major earthquake (>10000 deaths) in the world,0.6,1
+26. Keith Ellison chosen as new DNC chair,0.7,0
+27. No country currently in Euro or EU announces new plan to leave,0.8,1
+28. France does not declare plan to leave EU,0.95,1
+29. Germany does not declare plan to leave EU,0.99,1
+30. No agreement reached on “two-speed EU”,0.8,1
+31. The UK triggers Article 50,0.9,1
+32. Marine Le Pen is not elected President of France,0.6,1
+33. Angela Merkel is re-elected Chancellor of Germany,0.6,1
+34. Theresa May remains PM of Britain,0.8,1
+35. Fewer refugees admitted 2017 than 2016,0.95,1
+36. Bitcoin will end the year higher than $1000,0.6,1
+37. Oil will end the year higher than $50 a barrel,0.6,1
+38. …but lower than $60 a barrel,0.6,0
+39. Dow Jones will not fall > 10% this year,0.5,1
+40. Shanghai index will not fall > 10% this year,0.5,1
+41. Donald Trump remains President at the end of 2017,0.9,1
+42. No serious impeachment proceedings are active against Trump,0.8,1
+43. Construction on Mexican border wall (beyond existing barriers) begins,0.8,0
+44. Trump administration does not initiate extra prosecution of Hillary Clinton,0.9,1
+45. US GDP growth lower than in 2016,0.6,0
+46. US unemployment to be higher at end of year than beginning,0.6,0
+47. US does not withdraw from large trade org like WTO or NAFTA,0.9,1
+48. US does not publicly and explicitly disavow One China policy,0.95,1
+49. No race riot killing > 5 people,0.95,1
+50. US lifts at least half of existing sanctions on Russia,0.7,0
+51. Donald Trump’s approval rating at the end of 2017 is lower than fifty percent,0.8,1
+52. …lower than forty percent,0.6,1
+53. SSC will remain active,0.95,1
+54. SSC will get fewer hits than in 2016,0.6,0
+55. At least one SSC post > 100000 hits,0.7,1
+56. I will complete an LW/SSC survey,0.8,1
+57. I will finish a long FAQ this year,0.6,0
+58. Shireroth will remain active,0.7,1
+59. No co-bloggers (with more than 5 posts) on SSC by the end of this year,0.8,1
+60. Less Wrong renaissance attempt will seem less (rather than more) successful by end of this year,0.9,NA
+61. > 15000 Twitter followers by end of this year,0.8,1
+62. I won’t stop using Twitter Tumblr or Facebook,0.9,1
+63. I will attend the Bay Area Solstice next year,0.9,1
+64. …some other Solstice,0.6,1
+65. …not the New York Solstice,0.6,0
+66. I will take the job I am currently expecting to take,0.9,1
+67. …at the time I am expecting to take it without any delays,0.8,0
+68. I will like the job and plan to continue doing it for a while,0.7,1
+69. I will pass my Boards,0.9,1
+70. I will be involved in at least one published/accepted-to-publish research paper by the end of 2017,0.5,1
+71. I will present a research paper at the regional conference,0.8,1
+72. I will attend the APA national meeting in San Diego,0.9,1
+73. None of my outpatients to be hospitalized for psychiatric reasons during the first half of 2017,0.5,0
+74. None of my outpatients to be involuntarily committed to psych hospital by me during the first half of 2017,0.7,1
+75. None of my outpatients to attempt suicide during the first half of 2017,0.9,1
+76. I will not have scored 95th percentile or above when I get this year’s PRITE scores back,0.6,NA
+77. Amazon will not harass me to get the $40000 they gave me back,0.8,1
+78. …or at least will not be successful,0.9,1
+79. I will drive cross-country in 2017,0.7,1
+80. I will travel outside the US in 2017,0.7,0
+81. …to Europe,0.5,0
+82. I will not officially break up with any of my current girlfriends,0.6,1
+83. K will spend at least three months total in Michigan this year,0.7,1
+84. I will get at least one new girlfriend,0.7,NA
+85. I will not get engaged,0.9,1
+86. I will visit the Bay in May 2017,0.6,1
+87. I will have moved to the Bay Area,0.99,1
+88. I won’t live in Godric’s Hollow for at least two weeks continuous,0.7,1
+89. I won’t live in Volterra for at least two weeks continuous,0.7,1
+90. I won’t live in the Bailey for at least two weeks continuous,0.95,0
+91. I won’t live in some other rationalist group home for at least two weeks continuous,0.9,1
+92. I will be living in a house (incl group house) and not apartment building at the end of 2017,0.6,1
+93. I will still not have gotten my elective surgery,0.9,1
+94. I will not have been hospitalized (excluding ER) for any other reason,0.95,1
+95. I will make my savings target at the end of 2017,0.6,0
+96. I will not be taking any nootropic (except ZMA) daily or near-daily during any 2-month period this year,0.9,1
+97. I won’t publicly and drastically change highest-level political/religious/philosophical positions (eg become a Muslim or Republican),0.9,1
+98. I will not get drunk this year,0.8,1
+99. I get at least one article published on a major site like Huffington Post or Vox or New Statesman or something,0.5,1
+100. I attend at least one wedding this year,0.5,0
+101. Still driving my current car at the end of 2017,0.9,1
+102. Car is not stuck in shop for repairs for >1 day during 2017,0.6,1
+103. I will use Lyft at least once in 2017,0.6,1
+104. I weight > 185 pounds at the end of 2017,0.6,1
+105. I weight < 195 pounds at the end of 2017,0.7,0

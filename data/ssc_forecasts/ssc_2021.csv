@@ -1,0 +1,109 @@
+﻿question,prob,outcome
+Biden approval rating (as per 538) is greater than fifty percent:,0.8,0
+Court packing is clearly going to happen (new justices don't have to be appointed by end of year),0.05,0
+Yang is New York mayor,0.8,0
+Newsom recalled as CA governor,0.05,0
+At least $250 million in damage from BLM protests this year,0.3,0
+Significant capital gains tax hike (above 30% for highest bracket),0.2,0
+Trump is allowed back on Twitter,0.2,0
+Tokyo Olympics happen on schedule,0.7,1
+Major flare-up (significantly worse than anything in past 5 years) in Russia/Ukraine war,0.2,0
+Major flare-up (significantly worse than anything in past 10 years) in Israel/Palestine conflict,0.05,0
+Major flare-up (significantly worse than anything in past 50 years) in China/Taiwan conflict,0.05,0
+Netanyahu is still Israeli PM,0.4,0
+Prospera has at least 1000 residents,0.3,0
+Gamestop stock price still above $100,0.5,1
+Bitcoin above 100K,0.4,0
+Ethereum above 5K,0.5,0
+Ethereum above 0.05 BTC,0.7,1
+Dow above 35K,0.9,1
+...above 37.5K,0.7,0
+Unemployment above 5%,0.4,0
+Google widely allows remote work no questions asked,0.2,1
+Starship reaches orbit,0.6,0
+Fewer than 10K daily average official COVID cases in US in December 2021,0.3,0
+Fewer than 50K daily average COVID cases worldwide in December 2021,0.01,0
+Greater than 66% of US population vaccinated against COVID,0.5,0
+India's official case count is higher than US,0.5,0
+Vitamin D is not generally recognized (eg NICE  UpToDate) as effective COVID treatment,0.7,1
+Something else not currently used becomes first-line treatment for COVID,0.4,1
+Some new variant not currently known is greater than 25% of cases,0.5,1
+Some new variant where no existing vaccine is more than 50% effective,0.4,1
+US approves AstraZeneca vaccine,0.2,0
+Most people I see in the local grocery store aren't wearing a mask,0.6,0
+Major rationalist org leaves Bay Area,0.6,0
+MIRI relocates to Washington State,0.2,0
+MIRI relocates to New England,0.2,0
+MIRI relocates somewhere else,0.2,0
+Less Wrong team relocates,0.3,0
+No new residents at our housing cluster,0.4,1
+No current residents leave our housing cluster,0.6,0
+[friend] goes back to Indiana,0.4,1
+[friend] is in a primary relationship,0.5,0
+[friend] is in a primary relationship,0.3,0
+[friend] is in a primary relationship,0.2,0
+[friend] has gotten [job],0.5,0
+[friend] has recovered their health,0.7,1
+[friend] has gotten egg freezing,0.3,1
+[friend] is pregnant,0.7,0
+[friends] are still together,0.5,1
+[friend] is still at [job],0.8,1
+[friend] is in college,0.6,1
+[friends] live in [house],0.3,0
+[other friends] live in [house],0.3,0
+At least 7 days my house is orange or worse on PurpleAir.com because of fires,0.8,NA
+I am engaged,0.6,1
+I am married,0.2,0
+[redacted],0.1,0
+[redacted],0.1,0
+[redacted],0.05,0
+[redacted],0.2,0
+There are no appraisal-related complications to the new house purchase,0.5,1
+I live in the new house,0.95,1
+I live in the top bedroom,0.6,0
+I can hear / get annoyed by neighbor TV noise,0.4,0
+I'm playing in a D&D campaign,0.7,0
+I go on at least one international trip,0.6,1
+I spend at least a month living somewhere other than the Bay,0.5,1
+I continue my current exercise routine (and get through an entire cycle of it) in Q4 2021,0.7,1
+I meditate at least 15 days in Q4 2021,0.6,0
+I take oroxylum at least 5 times in Q4 2021,0.4,1
+I take some substance I haven't discovered yet at least 5 times in Q4 2021 (testing exempted),0.3,0
+I do at least six new biohacking experiments in the next eight months,0.4,0
+[redacted],0.3,0
+The Twitter account I check most frequently isn't one of the five I check frequently now,0.2,0
+I make/retweet at least 25 tweets between now and 2022,0.7,0
+Lorien has 100+ patients,0.9,1
+150+ patients,0.2,0
+200+ patients,0.05,0
+I've written at least ten more Lorien writeups (so total at least 27),0.3,0
+[redacted],0.7,1
+[redacted],0.8,1
+[redacted],0.6,0
+[redacted],0.4,NA
+[redacted],0.6,1
+I have switched medical records systems,0.2,NA
+I have changed my pricing scheme,0.2,0
+ACX is earning more money than it is right now,0.7,1
+[redacted],0.1,0
+[redacted],0.5,0
+[redacted],0.2,0
+There is another article primarily about SSC/ACX/me in a major news source,0.1,0
+I subscribe to at least 5 new Substacks (so total of 8),0.2,0
+I've read and reviewed How Asia Works,0.9,1
+I've read and reviewed Nixonland,0.7,0
+I've read and reviewed Scout Mindset,0.6,1
+I've read and reviewed at least two more dictator books,0.5,1
+I've started and am at least 25% of the way through the formal editing process for Unsong,0.3,0
+Unsong is published,0.1,0
+I've written at least five chapters of some non-Unsong book I hope to publish,0.4,0
+“On The Natural Faculties” wins the book review contest,0.6,0
+I run an ACX reader survey,0.5,1
+I run a normal ACX survey (must start but not necessarily finish before end of year),0.9,0
+By end of year some other post beats NYT commentary for my most popular post,0.1,0
+I finish + post Rise And Fall Of Online Culture Wars,0.9,1
+I finish + post Don’t Give Up On Having Kids Because Of Climate Change,0.8,1
+ I finish + post Carbon Costs Quantified,0.8,1
+I have a queue of fewer than ten extra posts,0.7,NA
+I double my current amount of money ($1000) on PredictIt,0.1,0
+I post my scores on these predictions before 3/1/22,0.7,1

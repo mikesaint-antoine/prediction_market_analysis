@@ -1,0 +1,60 @@
+question,prob,outcome
+<p>1. Obamacare will survive the year mostly intact,0.8,1
+2. US does not get involved in any new major war with death toll of > 100 US soldiers,0.9,1
+3. Syria’s civil war will not end this year (unstable cease-fire doesn’t count as “end”),0.6,1
+4. Bitcoin will end the year higher than $1000,0.7,0
+5. US official unemployment rate will be < 7% in Dec 2014,0.8,1
+6. Republicans will keep the House in US midterm elections,0.8,1
+7. Democrats will keep the Senate in US midterm elections,0.6,0
+8. North Korea&#8217;s government will survive the year without large civil war/revolt,0.8,1
+9. Iraq&#8217;s government will survive the year without large civil war/revolt,0.6,1
+10. China&#8217;s government will survive the year without large civil war/revolt,0.99,1
+11. US government will survive the year without large civil war/revolt,0.99,1
+12. Egypt&#8217;s government will survive the year without large civil war/revolt,0.6,1
+13. Israel-Palestine negotiations remain blocked no obvious plan for Palestinian independence,0.99,1
+14. Israel does not get in a large-scale war (ie >100 Israeli deaths) with any Arab state,0.95,1
+15. Sochi Olympics will not be obvious disaster (ie spectacular violence protests that utterly overshadow events or have to be stopped early),0.9,1
+16. Putin will remain President of Russia at end of 2014,0.95,1
+17. Obama will remain President of USA at end of 2014,0.95,1
+18. No nuclear weapon used in anger in 2014,0.99,1
+19. No terrorist attack in USA killing > 100 people,0.9,1
+20. No mass shooting in USA killing > 10 people,0.5,1
+21. Republic of Shireroth will not officially disband or obviously die before end of 2014,0.9,1
+22. Republic of Shireroth will remain in Bastion Union,0.8,1
+23. Active population of Shireroth on last 2014 census will be between 10 and 20,0.7,1
+24. Slate Star Codex will remain active until end of 2014,0.7,1
+25. Slate Star Codex will get more hits in 2014 than in 2013,0.6,1
+26. At least one 2014 Slate Star Codex post will get > 10000 hits total,0.8,1
+27. No 2014 Slate Star Codex post will get > 100000 hits total,0.9,1
+28. 2014 Less Wrong Survey will show higher population than 2013 Survey conditional on similar methodology,0.8,0
+29. 2014 Less Wrong Survey will show population < 2000 C.O.S.M.,0.7,1
+30. 2014 Less Wrong Survey will have > % female than 2013 Less Wrong Survey,0.7,1
+31. 2014 Less Wrong Survey will have < 20% female,0.9,1
+32. HPMoR will conclude in 2014,0.8,0
+33. At least 1 LW post > 100 karma in 2014,0.5,1
+34. No LW post > 100 karma by me,0.8,1
+35. CFAR will continue operating in end of 2014,0.9,1
+36. MIRI will continue operating in end of 2014,0.99,1
+37. MetaMed will continue operating in end of 2014,0.8,1
+38. None of Eliezer Luke Anna or Julia will quit their respective organizations,0.6,1
+39. No one in LW community will become world-famous (let’s say >= Peter Thiel) for anything they accomplish this year,0.8,1
+40. MIRI will not announce it is actively working on coding a Friendly AI (not just a few bits and pieces thereof) before the end of 2014,0.99,1
+41. I will remain at my same job through the end of 2014,0.95,1
+42. I will get a score at >95th percentile for my year on PRITE,0.7,0
+43. I will be involved in at least one published/accepted-to-publish research paper by the end of 2014,0.2,1
+44. I will not break up with any of my current girlfriends through the end of 2014,0.5,0
+45. I will not get any new girlfriends in 2014,0.5,0
+46. I will not be engaged by the end of 2014,0.8,1
+47. I will be living with Ozy by the end of 2014,0.8,0
+48. I will take nootropics on average at least once/week through the second half of 2014,0.5,0
+49. I will not manage to meditate at least 100 days in 2014,0.8,1
+50. I will attend NYC Solstice ritual,0.6,1
+51. I will arrange some kind of Michigan Solstice Ritual,0.5,0
+52. I will not publicly identify as religious (> atheist) by the end of 2014,0.95,1
+53. I will not publicly identify as neoreactionary or conservative (> liberal or libertarian) by the end of 2014,0.7,1
+54. I will not publicly identify as leftist or communist (> liberal or libertarian) by the end of 2014,0.8,1
+55. I will get a Tumblr in 2014,0.5,1
+56. I will not delete/abandon either my Facebook or Twitter accounts,0.6,1
+57. I will have less than 1000 Twitter followers by the end of 2014,0.6,0
+58. When Eliezer sends me a copy of “Perfect Health Diet” I will not be convinced that it is more correct or useful than the best mainstream nutrition advice (eg Stephen Guyenet’s blog),0.7,1
+59. I will end up being underconfident on these predictions,0.5,1
