@@ -13,6 +13,42 @@ def odds_to_prob(odds_in):
 
 
 
+def ujs(y_true,y_score):
+
+    assert len(y_true) == len(y_score)
+
+
+    print("in ujs function")
+
+
+    bin_bounds = [0,0.2,0.4,0.6,0.8,1]
+
+    error = 0
+
+    for i in range(len(bin_bounds)-1):
+
+        total = 0
+        happened = 0
+
+        for j in range(len(y_score)):
+
+            score = y_score[j]
+
+            if score >= bin_bounds[i] and score < bin_bounds[i+1]:
+                total += 1
+
+                happened += y_true[j]
+
+            if total > 0:
+                error_to_add = (np.mean([bin_bounds[i], bin_bounds[i+1]]) - happened/total)**2
+
+                error += error_to_add
+
+    return(error)
+
+
+
+
 
 def brier_score(y_true,y_score):
 
