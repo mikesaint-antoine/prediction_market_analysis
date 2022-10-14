@@ -1,6 +1,7 @@
 from sklearn import metrics
 import matplotlib.pyplot as plt
 import numpy as np
+import sys
 
 def odds_to_prob(odds_in):
     if odds_in<0:
@@ -13,37 +14,61 @@ def odds_to_prob(odds_in):
 
 
 
-def ujs(y_true,y_score):
+def calibration(y_true,y_score):
 
     assert len(y_true) == len(y_score)
 
 
+
+
     print("in ujs function")
 
+    bin_bounds = [0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1]
 
-    bin_bounds = [0,0.2,0.4,0.6,0.8,1]
+    # bin_bounds = [0,0.2,0.4,0.6,0.8,1]
 
     error = 0
+
+    bin_means = []
+    outcome_means = []
+    outcome_stds = []
+
 
     for i in range(len(bin_bounds)-1):
 
         total = 0
         happened = 0
 
+        outcomes = []
+
         for j in range(len(y_score)):
 
             score = y_score[j]
 
             if score >= bin_bounds[i] and score < bin_bounds[i+1]:
+
+
                 total += 1
 
                 happened += y_true[j]
+                outcomes.append(y_true[j])
 
-            if total > 0:
-                error_to_add = (np.mean([bin_bounds[i], bin_bounds[i+1]]) - happened/total)**2
+        bin_means.append(np.mean([bin_bounds[i],bin_bounds[i+1]]))
+        outcome_means.append(np.mean(outcomes))
+        outcome_stds.append(np.std(outcomes))
 
-                error += error_to_add
+    print(len(bin_means))
+    print(len(outcome_means))
 
+
+    print(outcome_means)
+
+    # plt.scatter(bin_means, outcome_means)
+    plt.errorbar(bin_means, outcome_means, yerr=outcome_stds, fmt="o")
+
+    plt.show()
+
+    sys.exit("funciton test")
     return(error)
 
 

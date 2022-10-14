@@ -54,3 +54,5 @@ assert len(y_true) == len(y_score)
 # plot_pr_curve(y_true,y_score, savefile=f"figs/fte_{topic}_pr.pdf")
 
 print_stats(y_true,y_score,round=1)
+
+calibration(y_true,y_score)
