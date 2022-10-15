@@ -14,7 +14,39 @@ def odds_to_prob(odds_in):
 
 
 
-def calibration(y_true,y_score):
+
+
+def make_html_file(filename, calibration_file="", roc_file="",pr_file=""):
+    with open(filename, "w") as record_file:
+        record_file.write('<!DOCTYPE html>\n')
+        record_file.write('<html lang="en">\n')
+        record_file.write('<head>\n')
+        record_file.write("<title>Mike's Website</title>\n")
+        record_file.write('</head>\n')
+        record_file.write('<body>\n')
+        record_file.write('<div>\n')
+        record_file.write(f'<img src = "{calibration_file}" width = "40%"  >\n')
+        record_file.write('</div>\n')
+        record_file.write('<div>\n')
+        record_file.write(f'<img src = "{roc_file}" width = "40%"  >\n')
+
+        record_file.write('</div>\n')
+        record_file.write('<div>\n')
+        record_file.write(f'<img src = "{pr_file}" width = "40%"  >\n')
+
+        record_file.write('</div>\n')
+        record_file.write('</body>\n')
+        record_file.write('<head>\n')
+        record_file.write('</html>\n')
+
+
+
+
+
+
+
+
+def calibration_plot(y_true,y_score,show=1, savefile="", title=""):
 
     assert len(y_true) == len(y_score)
 
@@ -63,13 +95,35 @@ def calibration(y_true,y_score):
 
     print(outcome_means)
 
-    # plt.scatter(bin_means, outcome_means)
-    plt.errorbar(bin_means, outcome_means, yerr=outcome_stds, fmt="o")
+    plt.scatter(bin_means, outcome_means)
+    # plt.errorbar(bin_means, outcome_means, yerr=outcome_stds, fmt="o")
 
-    plt.show()
+    plt.xlabel("Prediction Probability",fontsize=14)
+    plt.ylabel("Outcome Fraction",fontsize=14)
+    plt.ylim(0,1)
+    plt.xlim(0,1)
+    plt.title(title, fontsize=14)
 
-    sys.exit("funciton test")
-    return(error)
+    perfect, = plt.plot([0,1],[0,1],color="black",label="perfect")
+
+    plt.legend(handles=[perfect],fontsize=14,)
+
+
+
+
+    if len(savefile)>0:
+        plt.savefig(savefile)
+
+    if show:
+        plt.show()
+
+
+
+
+
+    plt.close()
+
+
 
 
 
@@ -148,7 +202,7 @@ def print_stats(y_true,y_score, round=0):
 
 
 
-def plot_roc_curve(y_true,y_score, show=1, savefile=""):
+def plot_roc_curve(y_true,y_score, show=1, savefile="", title=""):
 
     if sum(y_true)/len(y_true) >=0.5:
         y_ns = [1 for _ in range(len(y_true))]
@@ -163,10 +217,11 @@ def plot_roc_curve(y_true,y_score, show=1, savefile=""):
     noskill_plot, = plt.plot(ns_fpr,ns_tpr,label="No Skill",color="red")
 
     plt.legend(handles=[skill_plot, noskill_plot],fontsize=14,)
-    plt.xlabel("False Positive Rate")
-    plt.ylabel("True Positive Rate")
+    plt.xlabel("False Positive Rate",fontsize=14)
+    plt.ylabel("True Positive Rate",fontsize=14)
     plt.ylim(0,1)
     plt.xlim(0,1)
+    plt.title(title, fontsize=14)
 
 
     if len(savefile)>0:
@@ -181,7 +236,7 @@ def plot_roc_curve(y_true,y_score, show=1, savefile=""):
 
 
 
-def plot_pr_curve(y_true,y_score, show=1, savefile=""):
+def plot_pr_curve(y_true,y_score, show=1, savefile="", title=""):
 
     if sum(y_true)/len(y_true) >=0.5:
         ns_aupr = sum(y_true) / len(y_true)
@@ -195,10 +250,11 @@ def plot_pr_curve(y_true,y_score, show=1, savefile=""):
     noskill_plot = plt.axhline(y=ns_aupr,label="No Skill",color="red")
 
     plt.legend(handles=[skill_plot, noskill_plot],fontsize=14,)
-    plt.xlabel("Recall")
-    plt.ylabel("Precision")
+    plt.xlabel("Recall",fontsize=14)
+    plt.ylabel("Precision",fontsize=14)
     plt.ylim(0,1)
     plt.xlim(0,1)
+    plt.title(title, fontsize=14)
 
 
     if len(savefile)>0:

@@ -63,3 +63,17 @@ print_stats(y_true,y_score,round=1)
 # plt.hist(y_score,bins=20)
 # plt.show()
 # entropy(y_score)
+
+
+calibration_file = "plots/ebo_calibration.jpg"
+roc_file = "plots/ebo_roc.jpg"
+pr_file = "plots/ebo_pr.jpg"
+
+
+calibration_plot(y_true,y_score,savefile="plot_pages/"+calibration_file, show=0, title="Calibration - Election Betting Odds")
+
+plot_roc_curve(y_true,y_score,savefile="plot_pages/"+roc_file, show=0, title="ROC - Election Betting Odds")
+
+plot_pr_curve(y_true,y_score,savefile="plot_pages/"+pr_file, show=0, title="PR - Election Betting Odds")
+
+make_html_file("plot_pages/ebo_plots.html", calibration_file=calibration_file, roc_file=roc_file,pr_file=pr_file)
